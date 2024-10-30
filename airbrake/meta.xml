@@ -1,0 +1,6 @@
+<meta>
+	<info type="script"/>
+	<script src="airbrake_client.lua" type="client" cache="false"/>
+	<script src="airbrake_server.lua" type="server" />
+</meta>
+
